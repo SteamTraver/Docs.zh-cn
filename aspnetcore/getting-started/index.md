@@ -90,7 +90,7 @@ dotnet run
 
 ## <a name="edit-a-razor-page"></a>编辑 Razor 页面
 
-打开 Pages/About.cshtml，并使用以下突出显示标记修改页面：
+打开 Pages/Index.cshtml，并使用以下突出显示标记修改页面：
 
 [!code-cshtml[](sample/index.cshtml?highlight=9)]
 
